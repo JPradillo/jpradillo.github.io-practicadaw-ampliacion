@@ -9,4 +9,4 @@ markdown_extensions:
 
 nav:
   - 'Tema 2': 
-    - 'Práctica Ampliación': 'practica_ampliacion.md'
+    - 'Práctica Ampliación': 'index.md'
